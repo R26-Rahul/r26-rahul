@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r26-rahul&show_icons=true&theme=radical" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r26-rahul&theme=radical" height="150" alt="streak" />
+  
 </div>
 
 ---
