@@ -40,7 +40,7 @@
 
 </div>
 
----
+<!---
 
 ### ⚡ GitHub Stats
 
@@ -61,5 +61,7 @@
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="Portfolio"/>
   </a>
 </p>
+
+--->
 
 <br clear="both">
