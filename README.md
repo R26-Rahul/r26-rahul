@@ -5,7 +5,7 @@
   
   <h3 align="center">💻 Software Developer | Full Stack | Problem Solver</h3>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Javascript;Nodejs;C%2B%2B%2C+Python;HTML%2C+CSS%2C+Tailwindcss;React%2C+VITE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Javascript;Nodejs;C++;C%2B%2B%2C+Python;HTML%2C+CSS%2C+Tailwindcss;React%2C+VITE" alt="Typing SVG" /></a>
 
   
   <p align="center">
